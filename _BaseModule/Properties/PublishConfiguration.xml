@@ -1,11 +1,10 @@
 <Publish>
-  <ModId Value="" />
+  <ModId Value="123745" />
   <DisplayName Value="German Vanilla Sign Overrider (WE-Module)" />
   <ShortDescription Value="A WriteEverywhere-Module that replaces Vanilla Signs with German ones." />
   <LongDescription># German Vanilla Theme Overrider 
 
 Hello and Hallo. This is a Vanilla Theme Overrider that turns Vanilla Signs and Roadmarkings to German ones.
-Keep in mind the No Turn Left and No Turn Right will be invisible due them not existing in reallife.
 
 ---
 
@@ -23,8 +22,8 @@ Keep in mind the No Turn Left and No Turn Right will be invisible due them not e
 - [Spanish Signs]() 
 
 ##  Or my Vanilla Overriders
-- [Swiss Overrider](https://mods.paradoxplaza.com/mods/120627/Windows)  
- 
+- [Swiss Overrider](https://mods.paradoxplaza.com/mods/123563/Windows)  
+- [French Overrider](https://mods.paradoxplaza.com/mods/123893/Windows)
 ---
 
 ##  Credits and Special Thanks
@@ -36,9 +35,9 @@ Keep in mind the No Turn Left and No Turn Right will be invisible due them not e
 ##  Enjoy &amp; Share Your Feedback!</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/german-vanilla-sign-overrider-we-module.1866186" />
-  <ModVersion Value="1.0.0" />
+  <ModVersion Value="1.0.2" />
   <GameVersion Value="1.*" />
-  <ChangeLog>Initial Release</ChangeLog>
+  <ChangeLog>Changed Speedlimit 30 to the normal Sign on.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshot_1.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />

@@ -1,7 +1,6 @@
 # German Vanilla Theme Overrider 
 
 Hello and Hallo. This is a Vanilla Theme Overrider that turns Vanilla Signs and Roadmarkings to German ones.
-Keep in mind the No Turn Left and No Turn Right will be invisible due them not existing in reallife.
 
 ---
 
@@ -19,8 +18,8 @@ Keep in mind the No Turn Left and No Turn Right will be invisible due them not e
 - [Spanish Signs]() 
 
 ##  Or my Vanilla Overriders
-- [Swiss Overrider](https://mods.paradoxplaza.com/mods/120627/Windows)  
- 
+- [Swiss Overrider](https://mods.paradoxplaza.com/mods/123563/Windows)  
+- [French Overrider](https://mods.paradoxplaza.com/mods/123893/Windows)
 ---
 
 ##  Credits and Special Thanks
