@@ -10,7 +10,7 @@
         <arrayInstances x="1" y="1" z="1" />
         <arraySpacing x="0" y="0" z="0" />
       </transform>
-      <imageMesh atlas="German">
+      <imageMesh atlas="HongKong">
         <mesh>__CylinderHolder</mesh>
         <image>Metal</image>
       </imageMesh>
@@ -38,7 +38,7 @@
           <arrayInstances x="1" y="1" z="1" />
           <arraySpacing x="0" y="0" z="0" />
         </transform>
-        <imageMesh atlas="German">
+        <imageMesh atlas="HongKong">
           <mesh></mesh>
           <image>SignTaxi</image>
         </imageMesh>
@@ -66,7 +66,7 @@
             <arrayInstances x="1" y="1" z="1" />
             <arraySpacing x="0" y="0" z="0" />
           </transform>
-          <imageMesh atlas="German">
+          <imageMesh atlas="HongKong">
             <mesh></mesh>
             <image>SignTaxi</image>
           </imageMesh>
