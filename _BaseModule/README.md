@@ -11,9 +11,9 @@ This means that you can subscribe and use safely now, but the 3D model may not q
 Thanks:
 Klyte45, Maestro
 
-============================  
+/============================  
 Chinese version below.  
-============================  
+/============================  
 该模块正在开发中。但您可以先行订阅以看看预览版。  
 
 开发进度： 
