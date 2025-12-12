@@ -5,9 +5,9 @@
   <LongDescription># The module is under development. But you can subscribe to take an early look.</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-overrider-write-everywhere.1888029/" />
-  <ModVersion Value="0.0.4" />
+  <ModVersion Value="0.0.5" />
   <GameVersion Value="1.*" />
-  <ChangeLog>## V 0.0.4
+  <ChangeLog>## V 0.0.5
 - Fix bugs.</ChangeLog>
   <Tag Value="Code Mod" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
