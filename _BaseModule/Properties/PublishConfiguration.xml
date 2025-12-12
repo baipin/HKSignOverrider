@@ -10,9 +10,6 @@
   <ChangeLog>## V 0.0.3
 - Fix the problem that the picture is too big.</ChangeLog>
   <Tag Value="Code Mod" />
-  <Screenshot Value="Screenshots\Screenshot_1.jpg" />
-  <Screenshot Value="Screenshots\Screenshot_2.jpg" />
-  <Screenshot Value="Screenshots\Screenshot_3.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
   <ExternalLink Type="github" Url="https://github.com/baipin/HKSignOverrider" />
   <ExternalLink Type="buymeacoffee" Url="https://buymeacoffee.com/baipin" />
