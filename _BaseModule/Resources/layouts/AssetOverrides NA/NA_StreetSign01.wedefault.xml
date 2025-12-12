@@ -11,7 +11,7 @@
         <arraySpacing x="0" y="0" z="0" />
       </transform>
       <matrixTransform>
-        <offsetPosition formulae="&amp;MaestroHongKongOverrider.Functions.StreetPlateFn;GetSignOffsetPosition" />
+        <offsetPosition formulae="&amp;baipinHKOR.Functions.StreetPlateFn;GetSignOffsetPosition" />
       </matrixTransform>
     </self>
     <children>
@@ -25,7 +25,7 @@
           <arrayInstances x="1" y="1" z="1" />
           <arraySpacing x="0" y="0" z="0" />
         </transform>
-        <imageMesh atlas="MaestroHongKongOverrider:HongKong">
+        <imageMesh atlas="baipinHKOR:HongKong">
           <mesh>__CylinderHolder</mesh>
           <image>Metal</image>
         </imageMesh>
@@ -57,7 +57,7 @@
             <offsetPosition>
               <defaultValue x="-0" y="2.3" z="-0.04" />
             </offsetPosition>
-            <offsetRotation formulae="&amp;MaestroHongKongOverrider.Functions.StreetPlateFn;GetSignDirectionAngle">
+            <offsetRotation formulae="&amp;baipinHKOR.Functions.StreetPlateFn;GetSignDirectionAngle">
               <defaultValue x="0" y="90" z="0" />
             </offsetRotation>
           </matrixTransform>
@@ -112,7 +112,7 @@
             <offsetPosition>
               <defaultValue x="-0" y="2.3" z="-0.04" />
             </offsetPosition>
-            <offsetRotation formulae="&amp;MaestroHongKongOverrider.Functions.StreetPlateFn;GetSignDirectionAngle">
+            <offsetRotation formulae="&amp;baipinHKOR.Functions.StreetPlateFn;GetSignDirectionAngle">
               <defaultValue x="0" y="180" z="0" />
             </offsetRotation>
           </matrixTransform>

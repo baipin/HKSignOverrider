@@ -40,7 +40,7 @@
         </transform>
         <imageMesh atlas="HongKong">
           <mesh></mesh>
-          <image>SignNoTurnLeft</image>
+          <image>SignNoUTurnLeft</image>
         </imageMesh>
         <defaultStyle>
           <color>FFFFFFFF</color>
