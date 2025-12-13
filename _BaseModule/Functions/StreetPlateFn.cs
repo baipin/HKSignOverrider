@@ -9,9 +9,9 @@ using System.Collections.Generic;
 using Unity.Entities;
 using Unity.Mathematics;
 using UnityEngine;
-using MaestroGermanOverrider.Systems;
+using baipinHKOR.Systems;
 
-namespace MaestroGermanOverrider.Functions
+namespace baipinHKOR.Functions
 {
     public static class StreetPlateFn
     {

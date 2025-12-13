@@ -2,13 +2,24 @@
   <ModId Value="128035" />
   <DisplayName Value="Hong Kong Signs Overrider (WE-Module)" />
   <ShortDescription Value="A WriteEverywhere-Module that replaces Vanilla Signs with Hong Kong ones." />
-  <LongDescription># The module is under development. But you can subscribe to take an early look.</LongDescription>
+  <LongDescription># The module is under development. But you can subscribe to take an early look.
+
+Development Progress:  
+✅Images Preparation  
+✅Layouts Preparation  
+🔳3D-model Re-development  
+🔳Road Name Sign Re-design  
+
+This means that you can subscribe and use safely now, but the 3D model may not quite fit the sign.  
+
+Thanks:
+Klyte45, Maestro</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-overrider-write-everywhere.1888029/" />
-  <ModVersion Value="0.0.5" />
+  <ModVersion Value="0.0.6" />
   <GameVersion Value="1.*" />
-  <ChangeLog>## V 0.0.5
-- Fix bugs.</ChangeLog>
+  <ChangeLog>## V 0.0.6
+- Fixed the problem that Road Name plate disappears. (Thank Maestro)</ChangeLog>
   <Tag Value="Code Mod" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
   <ExternalLink Type="github" Url="https://github.com/baipin/HKSignOverrider" />

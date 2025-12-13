@@ -5,7 +5,7 @@ using Game;
 using Game.Modding;
 using Game.SceneFlow;
 using HarmonyLib;
-using MaestroGermanOverrider.Systems;
+using baipinHKOR.Systems;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -13,7 +13,7 @@ using System.Linq;
 using System.Reflection;
 using Colossal.Core;
 
-namespace MaestroGermanOverrider
+namespace baipinHKOR
 {
     public class Mod : IMod
     {

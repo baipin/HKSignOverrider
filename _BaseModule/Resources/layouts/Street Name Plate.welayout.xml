@@ -94,7 +94,7 @@
           <arrayInstances x="1" y="1" z="1" />
           <arraySpacing x="0" y="0" z="0" />
         </transform>
-        <textMesh fontName="DINMittelschriftStd">
+        <textMesh fontName="Huiwenganghei">
           <text formulae="&amp;BelzontWE.Builtin.WERoadFn;GetFromPropByTargetVar.m_refEdge/Game.Net.Aggregated;m_Aggregate/&amp;BelzontWE.Builtin.WEUtitlitiesFn;GetEntityName">NEW TEXT</text>
           <MaxWidthMeters>0.72</MaxWidthMeters>
         </textMesh>

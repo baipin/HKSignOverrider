@@ -10,7 +10,7 @@ using Unity.Entities;
 #if BURST
 using Unity.Burst;
 #endif
-namespace MaestroGermanOverrider.Systems
+namespace baipinHKOR.Systems
 {
     public partial class EdgeExtraDataUpdater : GameSystemBase
     {
