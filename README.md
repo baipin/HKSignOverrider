@@ -1,3 +1,6 @@
-This project can be used to generate modules for Write Everywhere (Cities Skylines 2 version). You can share text placement layouts (default and city-importable), atlases and fonts (beware the copyrights!).
+This is the module for Cities: Skylines II to override the vanilla road signs into Hong Kong template.  
 
-More instructions about how to use this project is under the _BaseModule folder. Don't forget renaming your project/solution after creating it from this template.
+## Thanks:
+- Klyte45 for his wonderful module Write Everywhere and template repository, so that the module can be made.
+- UnMaestro for his 3D road module and helping me learn a lot about how to make this module.
+- nd381. He is the author for the "bus lane" marking decal.
