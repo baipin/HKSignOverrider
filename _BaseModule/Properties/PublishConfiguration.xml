@@ -6,7 +6,7 @@
 This is the module for Cities: Skylines II to override the vanilla road signs into Hong Kong template.  
 
 ## Important: After adding to playset...
-**Notes: if you have already subscribed [Hong Kong Signs Pack](https://mods.paradoxplaza.com/mods/128035/Windows) mod, no need to do the following steps.**
+**Notes: if you have already subscribed [Hong Kong Signs Pack](https://mods.paradoxplaza.com/mods/128035/Windows) mod, no need to do the following steps.**  
 If your game is in Chinese edition, the default road names are in Chinese, to ensure the road name plates operate correctly, you need to import Chinese font by yourself. But it is very easy, just do like this:  
 * Font "匯文港黑" is recommended, download [here](https://github.com/baipin/HongKongsigns/blob/master/_BaseModule/Resources/fonts/Huiwenganghei.ttf). And copy it to C:\Users\\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\\.Klyte45Mods\WriteEverywhere\fonts (if no fonts folder, please create one by yourself). 
 * Enter your savegame.
@@ -25,14 +25,10 @@ If your game is in Chinese edition, the default road names are in Chinese, to en
 - nd381. He is the author for the "bus lane" marking decal.</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-overrider-write-everywhere.1888029/" />
-  <ModVersion Value="0.1.0" />
+  <ModVersion Value="0.1.1" />
   <GameVersion Value="1.*" />
-  <ChangeLog>## V 0.1.0
-- Fixed the problem that Road Name plate disappears. (Thank Maestro)
-- Fixed the problem that the Give way sign does not fit the 3D model.
-- Changed the model for One way sign.
-- Finished road name sign re-design.
-- Change the size of floor speed limit decal.</ChangeLog>
+  <ChangeLog>## V 0.1.1
+- Changed the sign for services vehicle from "Government Only" to "Authorised Only".</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\1.jpg" />
   <Screenshot Value="Screenshots\2.jpg" />
