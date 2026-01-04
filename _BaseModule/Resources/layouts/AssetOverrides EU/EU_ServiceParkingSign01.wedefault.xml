@@ -14,7 +14,7 @@
         <mesh>__CylinderHolder</mesh>
         <image>Metal</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>1</metallic>
@@ -42,7 +42,7 @@
           <mesh></mesh>
           <image>SignWarningCityServicesOnly</image>
         </imageMesh>
-        <defaultStyle>
+        <defaultStyle renderBackface="true">
           <color>000000FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0.6580145</metallic>
@@ -70,7 +70,7 @@
             <mesh></mesh>
             <image>SignWarningCityServicesOnly</image>
           </imageMesh>
-          <defaultStyle>
+          <defaultStyle renderBackface="true">
             <color>FFFFFFFF</color>
             <emissiveColor>FFFFFFFF</emissiveColor>
             <metallic>0.768476367</metallic>

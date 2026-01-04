@@ -25,10 +25,13 @@ If your game is in Chinese edition, the default road names are in Chinese, to en
 - nd381. He is the author for the "bus lane" marking decal.</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-overrider-write-everywhere.1888029/" />
-  <ModVersion Value="0.1.1" />
+  <ModVersion Value="0.1.2" />
   <GameVersion Value="1.*" />
-  <ChangeLog>## V 0.1.1
-- Changed the sign for services vehicle from "Government Only" to "Authorised Only".</ChangeLog>
+  <ChangeLog>## V 0.1.2
+- Added: Road Arrows are now in Hong Kong style.
+- Fixed the bug that one face of NA sign of Tram Stop shows the Bus Stop background.
+- Fixed the bug that the color of texts on the Road Name Sign is white, which cannot be seen. Now the color is changed to black, and it can been seen now.
+- The NA speed limit sign now corresponds to km/h in Hong Kong style.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\1.jpg" />
   <Screenshot Value="Screenshots\2.jpg" />

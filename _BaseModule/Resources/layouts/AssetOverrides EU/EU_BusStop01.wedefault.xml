@@ -14,7 +14,7 @@
         <mesh>__CylinderHolder</mesh>
         <image>Metal</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>1</metallic>
@@ -42,7 +42,7 @@
           <mesh></mesh>
           <image>SignBusstop</image>
         </imageMesh>
-        <defaultStyle>
+        <defaultStyle renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0.6580145</metallic>
@@ -70,7 +70,7 @@
             <mesh></mesh>
             <image>SignBusstop</image>
           </imageMesh>
-          <defaultStyle>
+          <defaultStyle renderBackface="true">
             <color>FFFFFFFF</color>
             <emissiveColor>FFFFFFFF</emissiveColor>
             <metallic>0.768476367</metallic>
@@ -85,6 +85,32 @@
         </self>
       </children>
     </children>
+  </children>
+  <children>
+    <self itemName="Sandwich">
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="-9.313226E-09" y="1.8" z="-1.86264515E-09" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="0.08" y="0.5" z="0.3" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <whiteCubeMesh />
+      <defaultStyle renderBackface="true">
+        <color>FFE900FF</color>
+        <emissiveColor>FFFFFFFF</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>0</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0</coatStrength>
+        <colorMask1>FFFFFF</colorMask1>
+        <colorMask2>FFFFFF</colorMask2>
+        <colorMask3>FFFFFF</colorMask3>
+      </defaultStyle>
+    </self>
   </children>
   <hideMesh>0</hideMesh>
 </WELayout>

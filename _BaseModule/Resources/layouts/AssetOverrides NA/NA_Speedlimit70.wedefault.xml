@@ -14,7 +14,7 @@
         <mesh>CircleHolder</mesh>
         <image>SignTex</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -40,9 +40,9 @@
         </transform>
         <imageMesh atlas="HongKong">
           <mesh></mesh>
-          <image>Sign60</image>
+          <image>Sign110</image>
         </imageMesh>
-        <defaultStyle>
+        <defaultStyle renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>

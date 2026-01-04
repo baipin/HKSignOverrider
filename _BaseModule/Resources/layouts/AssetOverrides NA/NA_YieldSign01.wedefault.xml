@@ -14,7 +14,7 @@
         <mesh>YieldHolder</mesh>
         <image>SignTex</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>1</metallic>
@@ -42,7 +42,7 @@
           <mesh></mesh>
           <image>SignYield</image>
         </imageMesh>
-        <defaultStyle>
+        <defaultStyle renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>

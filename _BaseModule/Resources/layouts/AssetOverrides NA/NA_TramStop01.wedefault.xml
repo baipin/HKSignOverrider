@@ -14,7 +14,7 @@
         <mesh>__CylinderHolder</mesh>
         <image>Metal</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>1</metallic>
@@ -42,7 +42,7 @@
           <mesh></mesh>
           <image>SignTramstop</image>
         </imageMesh>
-        <defaultStyle>
+        <defaultStyle renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0.6580145</metallic>
@@ -68,9 +68,9 @@
           </transform>
           <imageMesh atlas="HongKong">
             <mesh></mesh>
-            <image>SignBusstop</image>
+            <image>SignTramstop</image>
           </imageMesh>
-          <defaultStyle>
+          <defaultStyle renderBackface="true">
             <color>FFFFFFFF</color>
             <emissiveColor>FFFFFFFF</emissiveColor>
             <metallic>0.768476367</metallic>
