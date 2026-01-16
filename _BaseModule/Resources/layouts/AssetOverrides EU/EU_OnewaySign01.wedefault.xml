@@ -11,7 +11,7 @@
 				<arraySpacing x="0" y="0" z="0" />
 			</transform>
 			<imageMesh atlas="HongKong">
-				<mesh>RectHolder</mesh>
+				<mesh>OneWayHolder</mesh>
 				<image>SignTex</image>
 			</imageMesh>
 			<defaultStyle renderBackface="true">
